@@ -1,7 +1,0 @@
-model\Element.class
-Common\Library.class
-view\Menu.class
-view\Main.class
-Common\Algorithm.class
-controller\SortProgramming.class
-controller\SortProgramming$1SortMenu.class
